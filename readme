@@ -1,1 +1,22 @@
-so para subi o codigo
+Leitor de PDF 
+
+1 - Passe o Caminho do arquivo PDF que será lido.
+
+2 - Insira o numero da Pagina que será lida, lembrando que a contagem no python se inicia no 0 (Zero).
+
+3 - E por fim o Print para ver o que foi encontrado no pdf, a Biblioteca PyPDF2 retorna o Valor em Str. 
+
+
+Bibliotecas Utilizadas:
+
+PyPDF2 Documentação: https://pythonhosted.org/PyPDF2/
+
+Version = Python 3.9.7
+
+
+Possiveis Problemas:
+
+Erro ao reconhecer a biblioteca: 
+https://stackoverflow.com/questions/39241643/no-module-named-pypdf2-error;
+
+https://www.odoo.com/pt_BR/forum/ajuda-1/importerror-no-module-named-pypdf2-138813
